@@ -1,0 +1,73 @@
+{
+  "databaseId": "2becd2a6-5422-816e-93b6-e3db7b4af11b",
+  "databaseUrl": "https://www.notion.so/2becd2a65422816e93b6e3db7b4af11b",
+  "hubPageId": "2becd2a6-5422-8043-8939-e4bb0316a593",
+  "hubPageUrl": "https://www.notion.so/2becd2a6542280438939e4bb0316a593",
+  "createdAt": "2025-12-03T16:00:00.000Z",
+  "integration": {
+    "name": "SCHOLAR MNKY",
+    "teamspace": "MSW H.Q. Teamspace"
+  },
+  "properties": {
+    "title": "Title",
+    "course": "Course",
+    "type": "Type",
+    "category": "Category",
+    "status": "Status",
+    "dueDate": "Due Date",
+    "tags": "Tags",
+    "filePath": "File Path"
+  },
+  "description": "MSW-REPO Academic Files Database - Stores metadata for all academic files, documents, papers, and assignments",
+  "academicDatabases": {
+    "assignments": "2becd2a6-5422-8106-9250-d5544fd63818",
+    "treatmentPlans": "2becd2a6-5422-81ca-aea9-fea856b84526",
+    "sessionNotes": "2becd2a6-5422-8101-9683-ee3016ca2f87",
+    "bibliographies": "2becd2a6-5422-8122-b027-ebf51261d743",
+    "articles": "2becd2a6-5422-8116-9c6f-c03e42c5d9ff",
+    "rubrics": "2becd2a6-5422-8131-a577-c9ba08b714f3",
+    "textbooks": "2becd2a6-5422-81bb-97d6-c855590f60d7"
+  },
+  "dataSources": {
+    "2becd2a6-5422-816e-93b6-e3db7b4af11b": {
+      "id": "2becd2a6-5422-81b7-8b58-000bedf4a38d",
+      "name": "MSW-REPO Academic Files",
+      "databaseId": "2becd2a6-5422-816e-93b6-e3db7b4af11b"
+    },
+    "2becd2a6-5422-8106-9250-d5544fd63818": {
+      "id": "2becd2a6-5422-815b-9e99-000b869bae65",
+      "name": "Assignments",
+      "databaseId": "2becd2a6-5422-8106-9250-d5544fd63818"
+    },
+    "2becd2a6-5422-81ca-aea9-fea856b84526": {
+      "id": "2becd2a6-5422-8129-95dc-000bd916df53",
+      "name": "Treatment Plans",
+      "databaseId": "2becd2a6-5422-81ca-aea9-fea856b84526"
+    },
+    "2becd2a6-5422-8101-9683-ee3016ca2f87": {
+      "id": "2becd2a6-5422-814f-b57b-000b54b64d29",
+      "name": "Session Notes",
+      "databaseId": "2becd2a6-5422-8101-9683-ee3016ca2f87"
+    },
+    "2becd2a6-5422-8122-b027-ebf51261d743": {
+      "id": "2becd2a6-5422-81eb-a182-000b583f5721",
+      "name": "Annotated Bibliographies",
+      "databaseId": "2becd2a6-5422-8122-b027-ebf51261d743"
+    },
+    "2becd2a6-5422-8116-9c6f-c03e42c5d9ff": {
+      "id": "2becd2a6-5422-8138-b379-000b9a4f80db",
+      "name": "Articles",
+      "databaseId": "2becd2a6-5422-8116-9c6f-c03e42c5d9ff"
+    },
+    "2becd2a6-5422-8131-a577-c9ba08b714f3": {
+      "id": "2becd2a6-5422-8105-9659-000b82b1a9a1",
+      "name": "Rubrics & Guides",
+      "databaseId": "2becd2a6-5422-8131-a577-c9ba08b714f3"
+    },
+    "2becd2a6-5422-81bb-97d6-c855590f60d7": {
+      "id": "2becd2a6-5422-81bc-9a65-000ba6ebe790",
+      "name": "Textbooks & Resources",
+      "databaseId": "2becd2a6-5422-81bb-97d6-c855590f60d7"
+    }
+  }
+}

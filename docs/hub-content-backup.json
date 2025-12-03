@@ -1,0 +1,674 @@
+{
+  "timestamp": "2025-12-03T17:08:40.968Z",
+  "pageId": "2becd2a6-5422-8043-8939-e4bb0316a593",
+  "pageUrl": "https://www.notion.so/2becd2a6542280438939e4bb0316a593",
+  "blocks": [
+    {
+      "id": "2becd2a6-5422-81e2-89b2-cdaaeb3d7c57",
+      "type": "heading_1",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "🎓 MSW-REPO Hub",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "🎓 MSW-REPO Hub",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "has_children": false
+    },
+    {
+      "id": "2becd2a6-5422-81d2-b5b4-ca25d349045a",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Welcome to your personalized graduate student hub. This is your central command center for managing coursework, research, assignments, and academic projects.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Welcome to your personalized graduate student hub. This is your central command center for managing coursework, research, assignments, and academic projects.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "has_children": false
+    },
+    {
+      "id": "2becd2a6-5422-81f1-943e-f608f83b5f6b",
+      "type": "divider",
+      "content": {},
+      "has_children": false
+    },
+    {
+      "id": "2becd2a6-5422-81d4-aa94-c01140484b8c",
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "🚀 Quick Access",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "blue"
+            },
+            "plain_text": "🚀 Quick Access",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "has_children": false
+    },
+    {
+      "id": "2becd2a6-5422-815c-9596-c51983429f1f",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Navigate to your most important resources and tools:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Navigate to your most important resources and tools:",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "has_children": false
+    },
+    {
+      "id": "2becd2a6-5422-81cb-bbc1-e06c8eaf7cc9",
+      "type": "bulleted_list_item",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "📚 Academic Files Database - Manage all your files, documents, papers, and assignments",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "📚 Academic Files Database - Manage all your files, documents, papers, and assignments",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "has_children": false
+    },
+    {
+      "id": "2becd2a6-5422-8109-a8c0-cd21eac2503d",
+      "type": "bulleted_list_item",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "📝 Course Workspaces - Organized by course code (SOCW-6510, etc.)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "📝 Course Workspaces - Organized by course code (SOCW-6510, etc.)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "has_children": false
+    },
+    {
+      "id": "2becd2a6-5422-81e8-9c77-e1b638290b54",
+      "type": "bulleted_list_item",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "🔧 Integration Tools - Sync files, automate workflows, and manage metadata",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "🔧 Integration Tools - Sync files, automate workflows, and manage metadata",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "has_children": false
+    },
+    {
+      "id": "2becd2a6-5422-81cb-8305-d13e6fe611cd",
+      "type": "divider",
+      "content": {},
+      "has_children": false
+    },
+    {
+      "id": "2becd2a6-5422-8110-93d5-f7aafff1d99e",
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "✨ Features",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "purple"
+            },
+            "plain_text": "✨ Features",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "has_children": false
+    },
+    {
+      "id": "2becd2a6-5422-8141-8c55-d1df067ff5cd",
+      "type": "column_list",
+      "content": {},
+      "has_children": true
+    },
+    {
+      "id": "2becd2a6-5422-8121-9481-f29ee84bbce6",
+      "type": "divider",
+      "content": {},
+      "has_children": false
+    },
+    {
+      "id": "2becd2a6-5422-81ae-a161-f1f368fc640c",
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "🔗 Integration Details",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "green"
+            },
+            "plain_text": "🔗 Integration Details",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "has_children": false
+    },
+    {
+      "id": "2becd2a6-5422-8119-9924-f0da8285ddc2",
+      "type": "callout",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "This workspace is powered by the SCHOLAR MNKY integration, connecting your MSW-REPO repository with Notion for seamless academic workflow management.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "This workspace is powered by the SCHOLAR MNKY integration, connecting your MSW-REPO repository with Notion for seamless academic workflow management.",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "emoji",
+          "emoji": "🤖"
+        },
+        "color": "blue_background"
+      },
+      "has_children": false
+    },
+    {
+      "id": "2becd2a6-5422-816e-b552-e5d53ed68463",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "• ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "• ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Integration",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Integration",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ": SCHOLAR MNKY",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ": SCHOLAR MNKY",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "has_children": false
+    },
+    {
+      "id": "2becd2a6-5422-81b0-b2e5-dee5eb38e7aa",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "• ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "• ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Teamspace",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Teamspace",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ": MSW H.Q. Teamspace",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ": MSW H.Q. Teamspace",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "has_children": false
+    },
+    {
+      "id": "2becd2a6-5422-8152-9641-fe609b40bf85",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "• ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "• ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Repository",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Repository",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ": MSW-REPO (GitHub)",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ": MSW-REPO (GitHub)",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "has_children": false
+    },
+    {
+      "id": "2becd2a6-5422-81d9-8a9d-f6d01279d869",
+      "type": "divider",
+      "content": {},
+      "has_children": false
+    },
+    {
+      "id": "2becd2a6-5422-81aa-9756-d6eeffde245c",
+      "type": "heading_2",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "📖 Getting Started",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "orange"
+            },
+            "plain_text": "📖 Getting Started",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "has_children": false
+    },
+    {
+      "id": "2becd2a6-5422-813c-8050-c8846f1ae3db",
+      "type": "toggle",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "How to sync files from repository",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "How to sync files from repository",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "has_children": true
+    },
+    {
+      "id": "2becd2a6-5422-811e-ade4-e56f72970e98",
+      "type": "toggle",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "How to add a new course",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "How to add a new course",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "has_children": true
+    },
+    {
+      "id": "2becd2a6-5422-8168-9bdd-f8963f6a634c",
+      "type": "toggle",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "How to use Cursor MCP integration",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "How to use Cursor MCP integration",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "has_children": true
+    },
+    {
+      "id": "2becd2a6-5422-81cc-8d30-c29ee93bd0cc",
+      "type": "divider",
+      "content": {},
+      "has_children": false
+    },
+    {
+      "id": "2becd2a6-5422-8100-a553-e90c1aa8d575",
+      "type": "paragraph",
+      "content": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "💡 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "💡 ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Tip",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Tip",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ": This hub is your starting point. Explore the pages linked below to dive deeper into specific areas of your academic work.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ": This hub is your starting point. Explore the pages linked below to dive deeper into specific areas of your academic work.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "has_children": false
+    }
+  ]
+}

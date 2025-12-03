@@ -1,0 +1,6 @@
+packages:
+  - 'apps/**'
+  - 'courses/**'
+  - 'tools/**'
+  - 'workflows/**'
+

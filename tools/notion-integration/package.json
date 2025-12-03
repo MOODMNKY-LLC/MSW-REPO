@@ -1,0 +1,25 @@
+{
+  "name": "@msw-repo/notion-integration",
+  "version": "1.0.0",
+  "description": "Notion integration tools for MSW-REPO",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "sync": "node scripts/sync-files-to-notion.js",
+    "create-page": "node scripts/create-notion-page.js",
+    "update-metadata": "node scripts/update-file-metadata.js",
+    "verify": "node scripts/verify-mcp-setup.js",
+    "setup": "node scripts/setup-notion-database.js",
+    "update-hub": "node scripts/update-hub-page.js",
+    "migrate": "node scripts/migrate-to-2025-09-03.js",
+    "test-mcp": "node scripts/test-mcp-connection.js"
+  },
+  "dependencies": {
+    "@notionhq/client": "^5.0.0",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0"
+  }
+}
+

@@ -1,0 +1,91 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Testing
+coverage/
+*.lcov
+.nyc_output
+
+# Production builds
+dist/
+build/
+.next/
+out/
+.turbo/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env*.local
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# Cursor IDE
+.cursor/
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Python (if used)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Academic work - sensitive files (uncomment if needed)
+# *.pdf (if large files)
+# data/raw/ (if contains sensitive data)
+
+# n8n specific (keep workflow JSONs, ignore credentials)
+.n8n/
+
+# TypeScript
+*.tsbuildinfo
+
+# Optional: Keep workflow JSONs but ignore n8n runtime files
+# Uncomment if you want to ignore n8n database
+# .n8n/database.sqlite
+

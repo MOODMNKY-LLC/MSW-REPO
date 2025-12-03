@@ -1,0 +1,99 @@
+{
+  "database": {
+    "title": "Academic Files Database",
+    "description": "Database schema for organizing academic files, documents, papers, and assignments",
+    "properties": {
+      "Title": {
+        "type": "title",
+        "description": "Name of the file or document"
+      },
+      "Course": {
+        "type": "select",
+        "description": "Course code (e.g., SOCW-6510)",
+        "options": []
+      },
+      "Type": {
+        "type": "select",
+        "description": "Type of document",
+        "options": [
+          { "name": "Assignment", "color": "blue" },
+          { "name": "Paper", "color": "green" },
+          { "name": "Article", "color": "yellow" },
+          { "name": "Note", "color": "gray" },
+          { "name": "Research", "color": "purple" },
+          { "name": "Project", "color": "orange" },
+          { "name": "Document", "color": "default" }
+        ]
+      },
+      "Category": {
+        "type": "select",
+        "description": "Category based on file location",
+        "options": [
+          { "name": "Assignment", "color": "blue" },
+          { "name": "Paper", "color": "green" },
+          { "name": "Article", "color": "yellow" },
+          { "name": "Note", "color": "gray" },
+          { "name": "Research", "color": "purple" },
+          { "name": "Project", "color": "orange" },
+          { "name": "Document", "color": "default" }
+        ]
+      },
+      "Status": {
+        "type": "select",
+        "description": "Current status",
+        "options": [
+          { "name": "Draft", "color": "gray" },
+          { "name": "In Progress", "color": "yellow" },
+          { "name": "Completed", "color": "green" },
+          { "name": "Submitted", "color": "blue" },
+          { "name": "Archived", "color": "default" }
+        ]
+      },
+      "Due Date": {
+        "type": "date",
+        "description": "Due date for assignments"
+      },
+      "Tags": {
+        "type": "multi_select",
+        "description": "Tags for categorization and filtering"
+      },
+      "File Path": {
+        "type": "rich_text",
+        "description": "Relative path to file in repository"
+      },
+      "Created": {
+        "type": "created_time",
+        "description": "When the file was created"
+      },
+      "Updated": {
+        "type": "last_edited_time",
+        "description": "When the file was last modified"
+      }
+    }
+  },
+  "views": {
+    "All Files": {
+      "type": "table",
+      "sort": [{ "property": "Updated", "direction": "descending" }]
+    },
+    "By Course": {
+      "type": "table",
+      "group_by": "Course",
+      "sort": [{ "property": "Updated", "direction": "descending" }]
+    },
+    "By Type": {
+      "type": "board",
+      "group_by": "Type",
+      "sort": [{ "property": "Updated", "direction": "descending" }]
+    },
+    "Assignments": {
+      "type": "table",
+      "filter": {
+        "property": "Type",
+        "select": { "equals": "Assignment" }
+      },
+      "sort": [{ "property": "Due Date", "direction": "ascending" }]
+    }
+  }
+}
+

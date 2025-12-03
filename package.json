@@ -1,0 +1,31 @@
+{
+  "name": "msw-repo",
+  "version": "1.0.0",
+  "description": "Masters in Social Work Program Repository - Academic workspace with web applications and automation tools",
+  "private": true,
+  "packageManager": "pnpm@9.0.0",
+  "scripts": {
+    "dev": "echo 'Run dev scripts from individual apps: pnpm --filter <app-name> dev'",
+    "build": "echo 'Run build scripts from individual apps: pnpm --filter <app-name> build'",
+    "lint": "echo 'Add linting scripts as needed'",
+    "format": "echo 'Add formatting scripts as needed'"
+  },
+  "keywords": [
+    "academic",
+    "social-work",
+    "education",
+    "nextjs",
+    "automation"
+  ],
+  "author": "",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.3.0"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "pnpm": ">=9.0.0"
+  }
+}
+
